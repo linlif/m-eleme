@@ -1,4 +1,6 @@
-# m-eleme(仿饿了么移动端单页应用)
+使用Vue2.x完成商家页面重构工作
+
+*提示：项目过程中遇到的问题及解决方案，请到我的[个人博客](https://linlif.github.io/2017/07/26/Vue2-x%E9%87%8D%E6%9E%84%E9%A5%BF%E4%BA%86%E4%B9%88App%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/)上去看，满满的干货哦！*
 
 ## 项目运行
 ```bash
@@ -45,6 +47,7 @@ vue2 + vue-router2 + vue-cli2 + vue-resource + stylus + flex + es6 + eslint + we
 - Flex弹性布局: http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool
 - localStorage本地存储: http://www.cnblogs.com/st-leslie/p/5617130.html
 - 最后：本项目有付费视频课程，戳这里：http://coding.imooc.com/class/74.html
+
 
 
 ## Build Setup
